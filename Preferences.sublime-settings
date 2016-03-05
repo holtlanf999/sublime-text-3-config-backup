@@ -1,0 +1,19 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Heliopolis (SL).tmTheme",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Arzy.sublime-theme",
+	"translate_tabs_to_spaces": false
+}
